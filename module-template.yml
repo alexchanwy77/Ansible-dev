@@ -7,7 +7,6 @@
   vars_files:
     - vars/planetexpress.yml
 
-
   tasks:
     - name: Configure spaceship registration
       template:
